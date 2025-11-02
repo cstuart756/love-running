@@ -1,3 +1,46 @@
+🏃‍♀️ Love Running
+
+A responsive website for a Dublin-based running club that promotes community fitness and wellbeing through weekly running meetups.
+Built using HTML, CSS, and Font Awesome for icons.
+
+🌟 Overview
+
+The Love Running project is designed to encourage people to take part in a local running club.
+It provides information about running routes, benefits of running, and meetup times, while highlighting the social and mental health benefits of group exercise.
+
+This project demonstrates core front-end development skills, including semantic HTML structure, responsive design, and accessibility.
+
+🧩 Features
+
+✅ Responsive Navigation Bar — Works seamlessly on desktop and mobile
+✅ Hero Section — Engaging banner with club name and running locations
+✅ Benefits Section — Highlights physical and mental benefits of running
+✅ Meetup Times — Clear schedule for weekly runs and social events
+✅ Social Media Links — Quick access to the club’s social platforms
+✅ Favicon Support — Custom icons for browser tabs and bookmarks
+✅ Accessible Design — Semantic structure and descriptive alt text
+
+💻 Technologies Used
+
+HTML5 — Page structure and content
+
+CSS3 — Styling and layout (external stylesheet in css/styles.css)
+
+Font Awesome — Icons for UI enhancement
+
+Favicon Set — Multiple sizes for device compatibility
+
+⚙️ Deployment
+
+This project can be easily deployed using GitHub Pages:
+
+Push your project to a GitHub repository.
+
+Go to Settings → Pages.
+
+Under Build and Deployment, select main branch and / (root) folder.
+
+Click Save — your site will be live at:
 <<<<<<< HEAD
 =======
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
